@@ -1,0 +1,12 @@
+{
+  "name": "hngtaskstage1",
+  "version": "1.0.0",
+  "description": "Second Stage of the HNG internship, Backend Program.",
+  "main": "app.js",
+  "scripts": {
+    "app": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
